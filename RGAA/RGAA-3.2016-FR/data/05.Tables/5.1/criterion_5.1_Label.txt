@@ -1,0 +1,1 @@
+Chaque tableau de données complexe a-t-il un résumé ?

@@ -1,0 +1,1 @@
+Critère 8.10 [A] Dans chaque page Web, les changements du sens de lecture sont-ils signalés ?

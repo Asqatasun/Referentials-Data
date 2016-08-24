@@ -1,0 +1,1 @@
+Critère 4.20 [A] La consultation de chaque média temporel est-elle, si nécessaire, contrôlable par le clavier et la souris ?

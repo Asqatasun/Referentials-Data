@@ -1,0 +1,1 @@
+Dans chaque page Web, l’information ne doit pas être donnée par la forme, taille ou position uniquement. Cette règle est-elle implémentée de façon pertinente ?

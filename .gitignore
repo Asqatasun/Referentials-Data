@@ -1,0 +1,17 @@
+
+# Netbeans
+nbproject
+nb-configuration.xml
+nbactions.xml
+
+# Intellij
+.idea
+*.iml
+
+# saved files
+*~
+
+# Git - Merge temp file
+*.orig
+
+

@@ -1,0 +1,1 @@
+Critère 8.2 [A] Pour chaque page Web, le code source est-il valide selon le type de document spécifié (hors cas particuliers) ?

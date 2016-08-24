@@ -1,0 +1,1 @@
+Critère 7.1 [A] Chaque script est-il, si nécessaire, compatible avec les technologies d’assistance ?

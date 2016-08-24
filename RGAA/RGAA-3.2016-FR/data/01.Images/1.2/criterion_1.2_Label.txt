@@ -1,0 +1,1 @@
+Pour chaque image de décoration ayant une alternative textuelle, cette alternative est-elle vide ?

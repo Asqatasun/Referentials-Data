@@ -1,0 +1,1 @@
+Chaque script est-il contrôlable par le clavier et la souris (hors cas particuliers) ?
