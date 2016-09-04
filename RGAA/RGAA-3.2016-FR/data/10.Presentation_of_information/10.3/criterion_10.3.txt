@@ -1,1 +1,1 @@
-Critère 10.3 [A] Dans chaque page Web, l’information reste-t-elle compréhensible lorsque les feuilles de styles sont désactivées ?
+Dans chaque page Web, l’information reste-t-elle compréhensible lorsque les feuilles de styles sont désactivées ?

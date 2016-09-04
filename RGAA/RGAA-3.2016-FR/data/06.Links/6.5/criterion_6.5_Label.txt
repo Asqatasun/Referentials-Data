@@ -1,1 +1,0 @@
-Dans chaque page Web, chaque lien, à l’exception des ancres, a-t-il un intitulé ?

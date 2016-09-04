@@ -1,1 +1,0 @@
-Dans chaque page Web, pour chaque ouverture de nouvelle fenêtre, l’utilisateur est-il averti ?

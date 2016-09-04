@@ -1,1 +1,1 @@
-Critère 9.4 [AAA] Dans chaque page Web, la première occurrence de chaque abréviation permet-elle d’en connaître la signification ?
+Dans chaque page Web, la première occurrence de chaque abréviation permet-elle d’en connaître la signification ?

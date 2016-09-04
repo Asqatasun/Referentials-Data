@@ -1,1 +1,1 @@
-Critère 13.8 [A] Pour chaque document bureautique ayant une version accessible, cette version offre-t-elle la même information ?
+Pour chaque document bureautique ayant une version accessible, cette version offre-t-elle la même information ?

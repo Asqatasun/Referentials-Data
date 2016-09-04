@@ -1,1 +1,1 @@
-Critère 7.5 [AAA] Chaque script qui provoque une alerte non sollicitée est-il contrôlable par l’utilisateur (hors cas particuliers) ?
+Chaque script qui provoque une alerte non sollicitée est-il contrôlable par l’utilisateur (hors cas particuliers) ?

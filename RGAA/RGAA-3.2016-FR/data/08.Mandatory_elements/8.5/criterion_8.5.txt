@@ -1,1 +1,1 @@
-Critère 8.5 [A] Chaque page Web a-t-elle un titre de page ?
+Chaque page Web a-t-elle un titre de page ?

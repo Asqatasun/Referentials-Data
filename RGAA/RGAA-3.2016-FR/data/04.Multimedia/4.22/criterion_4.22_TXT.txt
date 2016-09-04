@@ -1,0 +1,1 @@
+Critère 4.22 [A] Chaque média temporel et non temporel est-il compatible avec les technologies d’assistance (hors cas particuliers) ?

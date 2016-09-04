@@ -1,1 +1,0 @@
-Dans chaque formulaire, chaque regroupement de champs de formulaire a-t-il une légende ?

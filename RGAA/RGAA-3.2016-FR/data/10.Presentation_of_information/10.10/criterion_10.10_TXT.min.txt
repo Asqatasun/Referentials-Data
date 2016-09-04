@@ -1,0 +1,1 @@
+Critère 10.10 [AAA] Pour chaque page Web, en affichage plein écran et avec une taille de police à 200%, chaque bloc de texte reste-t-il lisible sans l’utilisation de la barre de défilement horizontal ?

@@ -1,1 +1,1 @@
-Critère 10.5 [AA] Dans chaque page Web, les déclarations CSS de couleurs de fond d’élément et de police sont-elles correctement utilisées?
+Dans chaque page Web, les déclarations CSS de couleurs de fond d’élément et de police sont-elles correctement utilisées?

@@ -1,1 +1,1 @@
-Critère 13.15 [A] Dans chaque page Web, les changements brusques de luminosité ou les effets de flash sont-ils correctement utilisés ?
+Dans chaque page Web, les changements brusques de luminosité ou les effets de flash sont-ils correctement utilisés ?

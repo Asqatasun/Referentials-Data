@@ -1,1 +1,1 @@
-Critère 11.14 [AAA] Pour chaque formulaire, des aides à la saisie sont-elles présentes ?
+Pour chaque formulaire, des aides à la saisie sont-elles présentes ?

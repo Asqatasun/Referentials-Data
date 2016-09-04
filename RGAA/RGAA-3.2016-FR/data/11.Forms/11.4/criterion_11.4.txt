@@ -1,1 +1,1 @@
-Critère 11.4 [A] Dans chaque formulaire, chaque étiquette de champ et son champ associé sont-ils accolés ?
+Dans chaque formulaire, chaque étiquette de champ et son champ associé sont-ils accolés ?

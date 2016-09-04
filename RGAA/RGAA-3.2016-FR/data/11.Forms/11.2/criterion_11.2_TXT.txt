@@ -1,0 +1,1 @@
+Critère 11.2 [A] Chaque étiquette associée à un champ de formulaire est-elle pertinente ?

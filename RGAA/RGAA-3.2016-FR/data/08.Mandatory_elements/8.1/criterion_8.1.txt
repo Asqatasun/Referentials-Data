@@ -1,1 +1,1 @@
-Critère 8.1 [A] Chaque page Web est-elle définie par un type de document ?
+Chaque page Web est-elle définie par un type de document ?

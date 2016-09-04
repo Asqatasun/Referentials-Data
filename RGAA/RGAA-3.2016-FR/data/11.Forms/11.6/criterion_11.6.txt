@@ -1,1 +1,1 @@
-Critère 11.6 [A] Dans chaque formulaire, chaque regroupement de champs de formulaire a-t-il une légende ?
+Dans chaque formulaire, chaque regroupement de champs de formulaire a-t-il une légende ?

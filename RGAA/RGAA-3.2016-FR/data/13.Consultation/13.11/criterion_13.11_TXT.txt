@@ -1,0 +1,1 @@
+Critère 13.11 [A] Dans chaque page Web, chaque contenu cryptique (art ASCII, émoticon, syntaxe cryptique) a-t-il une alternative ?

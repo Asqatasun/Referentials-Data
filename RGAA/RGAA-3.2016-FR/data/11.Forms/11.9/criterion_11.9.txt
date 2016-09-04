@@ -1,1 +1,1 @@
-Critère 11.9 [A] Dans chaque formulaire, l’intitulé de chaque bouton est-il pertinent ?
+Dans chaque formulaire, l’intitulé de chaque bouton est-il pertinent ?

@@ -1,1 +1,1 @@
-Critère 10.2 [A] Dans chaque page Web, le contenu visible reste-t-il présent lorsque les feuilles de styles sont désactivées ?
+Dans chaque page Web, le contenu visible reste-t-il présent lorsque les feuilles de styles sont désactivées ?

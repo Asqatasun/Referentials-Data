@@ -1,1 +1,0 @@
-Pour chaque page Web, les textes cachés sont-ils correctement affichés pour être restitués par les technologies d’assistance ?

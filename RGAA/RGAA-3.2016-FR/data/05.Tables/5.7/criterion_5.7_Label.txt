@@ -1,1 +1,0 @@
-Pour chaque tableau de données, la technique appropriée permettant d’associer chaque cellule avec ses en-têtes est-elle utilisée ?

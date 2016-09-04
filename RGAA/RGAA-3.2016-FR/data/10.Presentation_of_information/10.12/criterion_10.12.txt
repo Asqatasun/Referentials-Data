@@ -1,1 +1,1 @@
-Critère 10.12 [AAA] Pour chaque page Web, l’espace entre les lignes et les paragraphes est-il suffisant ?
+Pour chaque page Web, l’espace entre les lignes et les paragraphes est-il suffisant ?

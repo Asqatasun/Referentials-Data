@@ -1,1 +1,1 @@
-Critère 9.3 [A] Dans chaque page Web, chaque liste est-elle correctement structurée ?
+Dans chaque page Web, chaque liste est-elle correctement structurée ?

@@ -1,1 +1,1 @@
-Critère 2.1 [A] Chaque cadre en ligne a-t-il un titre de cadre ?
+Chaque cadre en ligne a-t-il un titre de cadre ?

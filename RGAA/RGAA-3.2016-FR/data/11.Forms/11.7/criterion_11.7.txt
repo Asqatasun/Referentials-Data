@@ -1,1 +1,1 @@
-Critère 11.7 [A] Dans chaque formulaire, chaque légende associée à un groupement de champs de formulaire est-elle pertinente ?
+Dans chaque formulaire, chaque légende associée à un groupement de champs de formulaire est-elle pertinente ?

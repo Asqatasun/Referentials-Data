@@ -1,1 +1,1 @@
-Critère 12.6 [AA] Dans chaque ensemble de pages, le moteur de recherche est-il atteignable de manière identique ?
+Dans chaque ensemble de pages, le moteur de recherche est-il atteignable de manière identique ?

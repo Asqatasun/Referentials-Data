@@ -1,1 +1,1 @@
-Critère 11.8 [A] Dans chaque formulaire, chaque liste de choix est-elle structurée de manière pertinente ?
+Dans chaque formulaire, chaque liste de choix est-elle structurée de manière pertinente ?

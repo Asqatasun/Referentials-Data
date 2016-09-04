@@ -1,1 +1,1 @@
-Critère 12.10 [A] Dans chaque page Web, les groupes de liens importants (menu, barre de navigation…) et la zone de contenu sont-ils identifiés ?
+Dans chaque page Web, les groupes de liens importants (menu, barre de navigation…) et la zone de contenu sont-ils identifiés ?

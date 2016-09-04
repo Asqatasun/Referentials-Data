@@ -1,1 +1,1 @@
-Critère 8.6 [A] Pour chaque page Web ayant un titre de page, ce titre est-il pertinent ?
+Pour chaque page Web ayant un titre de page, ce titre est-il pertinent ?

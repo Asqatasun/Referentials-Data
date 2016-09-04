@@ -1,1 +1,1 @@
-Critère 5.1 [A] Chaque tableau de données complexe a-t-il un résumé ?
+Chaque tableau de données complexe a-t-il un résumé ?

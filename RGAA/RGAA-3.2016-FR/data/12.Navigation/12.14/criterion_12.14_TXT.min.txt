@@ -1,0 +1,1 @@
+Critère 12.14 [A] Dans chaque page Web, la navigation ne doit pas contenir de piège au clavier. Cette règle est-elle respectée ?

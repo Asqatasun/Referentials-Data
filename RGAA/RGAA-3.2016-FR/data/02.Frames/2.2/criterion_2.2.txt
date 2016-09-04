@@ -1,1 +1,1 @@
-Critère 2.2 [A] Pour chaque cadre en ligne ayant un titre de cadre, ce titre de cadre est-il pertinent ?
+Pour chaque cadre en ligne ayant un titre de cadre, ce titre de cadre est-il pertinent ?

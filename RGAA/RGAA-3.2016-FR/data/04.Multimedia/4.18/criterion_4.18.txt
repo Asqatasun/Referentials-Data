@@ -1,1 +1,1 @@
-Critère 4.18 [A] Chaque son déclenché automatiquement est-il contrôlable par l’utilisateur ?
+Chaque son déclenché automatiquement est-il contrôlable par l’utilisateur ?

@@ -1,0 +1,1 @@
+Critère 3.4 [AAA] Dans chaque page Web, le contraste entre la couleur du texte et la couleur de son arrière-plan est-il amélioré (hors cas particuliers) ?

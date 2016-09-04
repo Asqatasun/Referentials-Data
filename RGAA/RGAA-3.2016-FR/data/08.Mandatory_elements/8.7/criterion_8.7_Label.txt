@@ -1,1 +1,0 @@
-Dans chaque page Web, chaque changement de langue est-il indiqué dans le code source (hors cas particuliers) ?

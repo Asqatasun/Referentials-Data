@@ -1,1 +1,0 @@
-Dans chaque page Web, l’information reste-t-elle compréhensible lorsque les feuilles de styles sont désactivées ?

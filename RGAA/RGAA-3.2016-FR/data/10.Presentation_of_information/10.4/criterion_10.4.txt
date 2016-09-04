@@ -1,1 +1,1 @@
-Critère 10.4 [AA] Dans chaque page Web, le texte reste-t-il lisible lorsque la taille des caractères est augmentée jusqu’à 200%, au moins ?
+Dans chaque page Web, le texte reste-t-il lisible lorsque la taille des caractères est augmentée jusqu’à 200%, au moins ?

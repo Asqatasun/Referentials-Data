@@ -1,0 +1,1 @@
+Critère 13.1 [A] Pour chaque page Web, l’utilisateur a-t-il le contrôle de chaque limite de temps modifiant le contenu (hors cas particuliers) ?

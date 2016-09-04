@@ -1,1 +1,0 @@
-Dans chaque formulaire, le contrôle de saisie est-il utilisé de manière pertinente ?

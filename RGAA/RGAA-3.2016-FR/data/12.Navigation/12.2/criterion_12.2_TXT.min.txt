@@ -1,0 +1,1 @@
+Critère 12.2 [AA] Dans chaque ensemble de pages, le menu et les barres de navigation sont-ils toujours à la même place (hors cas particuliers) ?

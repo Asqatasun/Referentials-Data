@@ -1,1 +1,1 @@
-Critère 6.2 [A] Pour chaque lien ayant un titre de lien, celui-ci est-il pertinent ?
+Pour chaque lien ayant un titre de lien, celui-ci est-il pertinent ?
