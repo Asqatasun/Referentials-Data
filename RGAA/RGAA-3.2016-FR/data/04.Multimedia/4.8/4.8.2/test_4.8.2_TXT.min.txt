@@ -1,0 +1,1 @@
+Test 4.8.2 : Pour chaque média temporel synchronisé ayant une audio-description synchronisée, celle-ci est-elle pertinente ?

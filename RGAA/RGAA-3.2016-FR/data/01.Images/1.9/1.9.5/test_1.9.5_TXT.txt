@@ -1,0 +1,1 @@
+Test 1.9.5 : Chaque image texte bitmap (balise canvas) porteuse d’information doit si possible être remplacée par du texte stylé. Cette règle est-elle respectée (hors cas particuliers) ?

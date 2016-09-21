@@ -1,0 +1,1 @@
+Chaque tableau de mise en forme (balise table) vérifie-t-il ces conditions ? Le tableau de mise en forme (balise table) ne possède pas de balises caption, th, thead, tfoot ; Les cellules du tableau de mise en forme (balise td) ne possèdent pas d’attributs scope, headers, colgroup, axis.

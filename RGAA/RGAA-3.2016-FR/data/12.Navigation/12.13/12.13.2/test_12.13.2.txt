@@ -1,0 +1,1 @@
+Pour chaque script qui met à jour ou insère un contenu, l’ordre de tabulation reste-t-il cohérent ?

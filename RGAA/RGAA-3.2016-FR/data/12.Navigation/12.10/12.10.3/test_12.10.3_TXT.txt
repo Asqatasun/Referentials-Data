@@ -1,0 +1,4 @@
+Test 12.10.3 : Dans chaque page Web, la zone de contenu vérifie-t-elle une de ces conditions ?
+								La zone de contenu possède un attribut id ;
+								  La zone de contenu est immédiatement précédée, dans le code source, d’une ancre ;
+								  Le premier élément de la zone de contenu est immédiatement précédé, dans le code source, d’une ancre.

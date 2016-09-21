@@ -1,0 +1,1 @@
+Test 10.8.4 : Pour chaque bloc de texte contenu dans une balise object, embed, svg ou canvas, la couleur de police est-elle contrôlable par l’utilisateur ?

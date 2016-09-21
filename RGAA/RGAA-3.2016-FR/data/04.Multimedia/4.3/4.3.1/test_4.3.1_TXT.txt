@@ -1,0 +1,3 @@
+Test 4.3.1 : Chaque média temporel synchronisé pré-enregistré vérifie-t-il, si nécessaire, l’une de ces conditions (hors cas particuliers) ?
+								Le média temporel synchronisé possède des sous-titres synchronisés ;
+								  Il existe une version alternative possédant des sous-titres synchronisés accessible via un lien adjacent (une url ou une ancre).

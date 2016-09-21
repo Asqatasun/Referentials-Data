@@ -1,0 +1,1 @@
+Chaque page Web vérifie-t-elle une de ces conditions ? Le texte n’est pas justifié ; Un mécanisme permet à l’utilisateur de supprimer la justification du texte.

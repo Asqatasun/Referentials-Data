@@ -1,0 +1,3 @@
+Test 4.16.1 : Chaque média non temporel vérifie-t-il, si nécessaire, une de ces conditions (hors cas particuliers) ?
+								Un lien adjacent, clairement identifiable, contient l’adresse (url) d’une page contenant une alternative ;
+								  Un lien adjacent, clairement identifiable, permet d’accéder à une alternative dans la page.

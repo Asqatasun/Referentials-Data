@@ -1,0 +1,1 @@
+Test 9.2.2 : Dans chaque page Web, l’arborescence du document est-elle cohérente ?

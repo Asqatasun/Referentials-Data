@@ -1,0 +1,1 @@
+Dans chaque page Web, pour chaque ouverture d’une nouvelle fenêtre effectuée via une balise object, ou embed, l’utilisateur est-il averti ?

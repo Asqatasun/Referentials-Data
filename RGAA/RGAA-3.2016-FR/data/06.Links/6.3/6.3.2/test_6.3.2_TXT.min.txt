@@ -1,0 +1,1 @@
+Test 6.3.2 : Chaque intitulé de lien image est-il explicite hors contexte (hors cas particuliers) ?

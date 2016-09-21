@@ -1,0 +1,1 @@
+Test 12.11.3 : Dans chaque page Web, chaque lien d’évitement ou d’accès rapide est-il fonctionnel (hors cas particuliers) ?

@@ -1,0 +1,1 @@
+Dans chaque page Web, chaque élément recevant le focus vérifie-t-il une de ces conditions ? Il est possible d’atteindre l’élément suivant ou précédent pouvant recevoir le focus avec la touche de tabulation ; L’utilisateur est informé d’un mécanisme fonctionnel permettant d’atteindre au clavier l’élément suivant ou précédent pouvant recevoir le focus.

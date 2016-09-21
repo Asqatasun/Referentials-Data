@@ -1,0 +1,1 @@
+Chaque image embarquée légendée (balise embed associée à une légende adjacente) vérifie-t-elle, si nécessaire, ces conditions ? L’image embarquée (balise embed) et sa légende sont contenues dans une balise figure ; La balise figure possède un attribut role="group" ; L’alternative contient une référence à la légende adjacente.

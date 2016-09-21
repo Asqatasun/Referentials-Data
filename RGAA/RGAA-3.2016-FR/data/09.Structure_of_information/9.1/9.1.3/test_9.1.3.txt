@@ -1,0 +1,1 @@
+Dans chaque page Web, chaque titre (balise h ou balise possédant un rôle ARIA "heading" associé à une propriété aria-level) nécessaire à la structure de l’information est-il présent ?

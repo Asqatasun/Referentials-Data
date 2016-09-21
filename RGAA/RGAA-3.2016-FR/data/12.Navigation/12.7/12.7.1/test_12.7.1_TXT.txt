@@ -1,0 +1,4 @@
+Test 12.7.1 : Chaque page d’une collection de pages, vérifie-t-elle ces conditions ?
+								Un lien permet d’accéder à la page suivante ;
+								  Un lien permet d’accéder à la page précédente ;
+								  Des liens permettent d’accéder à chaque page de la collection de pages.

@@ -1,0 +1,1 @@
+Test 9.1.2 : Dans chaque page Web, la hiérarchie entre les titres (balise h ou balise possédant un rôle ARIA "heading" associé à une propriété aria-level) est-elle pertinente ?

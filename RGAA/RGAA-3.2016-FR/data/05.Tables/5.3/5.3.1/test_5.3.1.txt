@@ -1,0 +1,1 @@
+Chaque tableau de mise en forme vérifie-t-il ces conditions (hors cas particuliers) ? Le contenu linéarisé reste compréhensible ; La balise table possède un attribut role="presentation".

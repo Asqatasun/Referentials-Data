@@ -1,0 +1,1 @@
+Dans chaque page Web, la page en cours de consultation est-elle indiquée dans le menu de navigation ?

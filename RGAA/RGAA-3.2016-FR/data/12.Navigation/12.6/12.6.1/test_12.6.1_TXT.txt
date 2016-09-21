@@ -1,0 +1,1 @@
+Test 12.6.1 : Dans chaque ensemble de pages, le moteur de recherche est-il accessible à partir d’une fonctionnalité identique ?

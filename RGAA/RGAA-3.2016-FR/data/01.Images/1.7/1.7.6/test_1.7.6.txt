@@ -1,0 +1,1 @@
+Pour chaque image vectorielle (balise svg) porteuse d’information, ayant une description détaillée implémentée via la balise desc, cette description détaillée est-elle correctement restituée par les technologies d’assistance ?

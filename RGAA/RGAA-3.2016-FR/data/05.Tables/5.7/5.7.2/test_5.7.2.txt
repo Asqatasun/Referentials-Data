@@ -1,0 +1,1 @@
+Chaque en-tête (balise th) s’appliquant à la totalité de la ligne ou de la colonne et possédant un attribut scope vérifie-t-il une de ces conditions ? L’en-tête possède un attribut scope avec la valeur "row" pour les en-tête de lignes ; L’en-tête possède un attribut scope avec la valeur "col" pour les en-tête de colonnes.

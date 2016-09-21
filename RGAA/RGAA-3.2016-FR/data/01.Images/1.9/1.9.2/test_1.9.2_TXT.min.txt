@@ -1,0 +1,1 @@
+Test 1.9.2 : Chaque bouton "image texte" (balise input avec l’attribut type="image") porteur d’information doit si possible être remplacé par du texte stylé. Cette règle est-elle respectée (hors cas particuliers) ?

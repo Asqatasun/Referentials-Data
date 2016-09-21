@@ -1,0 +1,1 @@
+Chaque champ de formulaire qui utilise un attribut title comme étiquette, vérifie-t-il une de ces conditions ? L’attribut placeholder est absent ; L’attribut placeholder est identique à l’attribut title.

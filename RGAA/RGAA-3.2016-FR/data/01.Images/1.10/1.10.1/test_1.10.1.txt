@@ -1,0 +1,1 @@
+Chaque image légendée (balise img ou input avec l’attribut type="image" associée à une légende adjacente) vérifie-t-elle, si nécessaire, ces conditions ? L’image (balise img) et sa légende sont contenues dans une balise figure ; La balise figure possède un attribut role="group" ; Le contenu de l’attribut alt de l’image contient une référence à la légende adjacente.

@@ -1,0 +1,1 @@
+Chaque bouton associé à une image (balise input avec l’attribut type="image") utilisée comme CAPTCHA vérifie-t-il une de ces conditions ? Il existe une autre forme de CAPTCHA non graphique, au moins ; Il existe une autre solution d’accès à la fonctionnalité sécurisée par le CAPTCHA.

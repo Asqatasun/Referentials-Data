@@ -1,0 +1,1 @@
+Chaque indication de champ obligatoire qui utilise les propriétés ARIA aria-label, aria-required ou l’attribut required doit être accompagnée d’une indication visuelle explicite dans l’étiquette (balise label) ou dans un passage de texte lié au champ par la propriété ARIA aria-describedby ou aria-labelledby, cette règle est-elle respectée ?

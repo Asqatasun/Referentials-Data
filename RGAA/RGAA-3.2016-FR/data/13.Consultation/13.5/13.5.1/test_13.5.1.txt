@@ -1,0 +1,1 @@
+Dans chaque page Web, lors d’une interruption de session authentifiée, les données saisies par l’utilisateur sont-elles récupérées après ré-authentification ?

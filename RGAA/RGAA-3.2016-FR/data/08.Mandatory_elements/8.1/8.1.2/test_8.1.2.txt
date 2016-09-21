@@ -1,0 +1,1 @@
+Pour chaque page Web, le type de document (balise doctype) est-il valide ?

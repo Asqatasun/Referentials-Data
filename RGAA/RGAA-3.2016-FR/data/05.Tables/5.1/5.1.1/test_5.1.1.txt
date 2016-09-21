@@ -1,0 +1,1 @@
+Pour chaque tableau de données complexe (balise table) un résumé est-il disponible dans la balise caption ?

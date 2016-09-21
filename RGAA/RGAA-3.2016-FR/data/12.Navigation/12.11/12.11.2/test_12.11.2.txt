@@ -1,0 +1,1 @@
+Dans chaque page Web, un lien permet-il d’éviter la zone de contenu identifiée ou d’y accéder (hors cas particuliers) ?

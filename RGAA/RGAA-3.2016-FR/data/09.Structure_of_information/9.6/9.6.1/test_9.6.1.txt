@@ -1,0 +1,1 @@
+Dans chaque page Web, chaque citation courte utilise-t-elle une balise q ?

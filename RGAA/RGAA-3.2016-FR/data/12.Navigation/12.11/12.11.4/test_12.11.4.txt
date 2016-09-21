@@ -1,0 +1,1 @@
+Dans chaque ensemble de pages, les liens d’évitement ou d’accès rapide vérifient-ils ces conditions (hors cas particuliers) ? Chaque lien est situé à la même place dans la présentation ; Chaque lien se présente toujours dans le même ordre relatif dans le code source ; Chaque lien est visible à la prise de focus de tabulation au moins.

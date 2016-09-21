@@ -1,0 +1,1 @@
+Test 5.5.1 : Pour chaque tableau de données (balise table) ayant une balise caption, le contenu de cette balise donne-t-il le titre du tableau ?

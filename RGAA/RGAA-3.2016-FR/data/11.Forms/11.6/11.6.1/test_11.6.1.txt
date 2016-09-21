@@ -1,0 +1,1 @@
+Chaque regroupement de champs de formulaire (balise fieldset) est-il suivi dans le code source par une légende (balise legend) ?

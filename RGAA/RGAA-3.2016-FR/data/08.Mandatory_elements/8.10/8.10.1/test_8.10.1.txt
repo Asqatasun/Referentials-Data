@@ -1,0 +1,1 @@
+Dans chaque page Web, chaque texte dont le sens de lecture est différent du sens de lecture par défaut vérifie-t-il ces conditions ? Le texte est contenu dans une balise possédant un attribut dir ; La valeur de l’attribut dir est conforme (rtl ou ltr) ; La valeur de l’attribut dir est pertinente.

@@ -1,0 +1,1 @@
+Test 10.3.1 : Dans chaque page Web, l’information reste-t-elle compréhensible lorsque les feuilles de styles sont désactivées ?

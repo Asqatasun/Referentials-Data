@@ -1,0 +1,1 @@
+Test 6.5.1 : Dans chaque page Web, chaque lien (balise a avec un attribut href), à l’exception des ancres, a-t-il un intitulé entre <a> et </a> ?

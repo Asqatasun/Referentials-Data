@@ -1,0 +1,1 @@
+Chaque image vectorielle (balise svg) porteuse d’information, ayant une description détaillée, vérifie-t-elle une de ces conditions ? La description détaillée adjacente à l’image vectorielle est pertinente ; La description détaillée contenue dans la balise desc est pertinente ; La description détaillée via un lien adjacent est pertinente.

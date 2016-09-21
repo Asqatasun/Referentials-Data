@@ -1,0 +1,5 @@
+Test 1.6.6 : Chaque image vectorielle (balise svg) porteuse d’information, qui nécessite une description détaillée, vérifie-t-elle une de ces conditions ?
+								Il existe une propriété aria-label contenant une référence à une description détaillée adjacente à l’image vectorielle ;
+								  Il existe une balise desc contenant une référence à une description détaillée adjacente à l’image vectorielle ;
+								  Il existe une balise desc contenant la description détaillée ;
+								  Il existe un lien adjacent (via une url ou une ancre) permettant d’accéder au contenu de la description détaillée.

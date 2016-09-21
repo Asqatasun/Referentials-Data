@@ -1,0 +1,1 @@
+Test 12.3.2 : Dans chaque ensemble de pages, les barres de navigation répétées ont-elles une présentation cohérente (hors cas particuliers) ?

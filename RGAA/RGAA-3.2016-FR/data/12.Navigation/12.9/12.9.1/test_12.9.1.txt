@@ -1,0 +1,1 @@
+Dans chaque page Web, le fil d’Ariane est-il représentatif de la position de la page dans l’arborescence du site ?

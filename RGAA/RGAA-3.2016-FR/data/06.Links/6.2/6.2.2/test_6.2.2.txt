@@ -1,0 +1,1 @@
+Pour chaque lien image ayant un titre de lien (attribut title), le contenu de cet attribut est-il pertinent ?

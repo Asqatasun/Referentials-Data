@@ -1,0 +1,1 @@
+Dans chaque page Web, chaque groupe de liens importants vérifie-t-il une de ces conditions ? La balise structurant le groupe de liens importants possède un attribut id ; La balise structurant le groupe de liens importants est immédiatement précédée, dans le code source, d’une ancre ; Le premier lien du groupe de liens est immédiatement précédé, dans le code source, d’une ancre.

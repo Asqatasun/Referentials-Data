@@ -1,0 +1,1 @@
+Test 1.7.8 : Pour chaque image bitmap (balise canvas) porteuse d’information, ayant une description détaillée entre <canvas> et </canvas>, cette description détaillée est-elle correctement restituée par les technologies d’assistance ?

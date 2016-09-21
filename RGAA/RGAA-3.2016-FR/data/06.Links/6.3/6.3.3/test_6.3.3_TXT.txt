@@ -1,0 +1,1 @@
+Test 6.3.3 : Chaque lien composite (contenu texte et de l’attribut alt) est-il explicite hors contexte (hors cas particuliers) ?

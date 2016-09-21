@@ -1,0 +1,1 @@
+Chaque modification du rôle natif d’un élément HTML respecte-t-elle les règles et préconisations indiquées dans la spécification HTML5 et les notes techniques associées ?

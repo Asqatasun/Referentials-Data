@@ -1,0 +1,6 @@
+Test 11.10.4 : Pour chaque formulaire, les erreurs de saisie vérifient-elles une de ces conditions ?
+								L’erreur de saisie est indiquée dans l’étiquette (balise label, attribut title, propriété ARIA aria-label, passage de texte lié via la propriété ARIA aria-labelledby) du champ de formulaire ;
+								  L’erreur de saisie est indiquée par un passage de texte avant le champ de formulaire ;
+								  Le champ de formulaire possède un type qui produit de manière automatique un message d’erreur de saisie ;
+								  L’erreur de saisie est indiquée par un passage de texte lié par la propriété ARIA aria-describedby ;
+								  L’erreur de saisie est indiquée via la propriété ARIA aria-invalid.

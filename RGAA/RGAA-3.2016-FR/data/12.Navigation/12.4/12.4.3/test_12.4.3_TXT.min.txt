@@ -1,0 +1,1 @@
+Test 12.4.3 : Les liens du plan du site renvoient-ils bien vers les pages indiquées par l’intitulé ?

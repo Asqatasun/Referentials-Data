@@ -1,0 +1,1 @@
+Test 7.3.1 : Chaque élément possédant un gestionnaire d’événement contrôlé par un script vérifie-t-il une de ces conditions (hors cas particuliers) ? L’élément est accessible par le clavier et la souris ; Un élément accessible par le clavier et la souris permettant de réaliser la même action est présent dans la page.

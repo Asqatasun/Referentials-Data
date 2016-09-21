@@ -1,0 +1,1 @@
+Test 7.1.2 : Chaque fonctionnalité d’insertion de contenu contrôlée par un script utilise-t-elle des propriétés et méthodes conformes à la spécification DOM (Document Object Model) ?

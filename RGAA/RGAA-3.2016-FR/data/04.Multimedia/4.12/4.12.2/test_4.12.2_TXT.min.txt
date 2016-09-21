@@ -1,0 +1,1 @@
+Test 4.12.2 : Pour chaque média temporel pré-enregistré seulement vidéo ayant une audio-description étendue synchronisée, celle-ci est-elle pertinente ?

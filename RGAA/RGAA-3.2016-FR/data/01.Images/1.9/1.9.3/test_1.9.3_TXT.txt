@@ -1,0 +1,1 @@
+Test 1.9.3 : Chaque image texte objet (balise object avec l’attribut type="image/…") porteuse d’information doit si possible être remplacée par du texte stylé. Cette règle est-elle respectée (hors cas particuliers) ?

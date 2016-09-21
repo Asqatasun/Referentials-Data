@@ -1,0 +1,1 @@
+Pour chaque tableau de donnée complexes (balise table) ayant un résumé, celui-ci est-il pertinent ?

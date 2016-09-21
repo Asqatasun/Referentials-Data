@@ -1,0 +1,1 @@
+Test 10.15.4 : Dans chaque page Web, pour chaque média non temporel, l’information ne doit pas être donnée par la forme, taille ou position uniquement. Cette règle est-elle implémentée de façon pertinente ?

@@ -1,0 +1,1 @@
+Dans chaque page Web, pour chaque image ou ensemble d’images, l’information ne doit pas être donnée par la forme, taille ou position uniquement. Cette règle est-elle implémentée de façon pertinente ?

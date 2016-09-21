@@ -1,0 +1,1 @@
+Test 6.2.3 : Pour chaque lien composite ayant un titre de lien (attribut title), le contenu de cet attribut est-il pertinent ?

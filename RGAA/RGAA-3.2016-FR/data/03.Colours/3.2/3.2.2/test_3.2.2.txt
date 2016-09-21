@@ -1,0 +1,1 @@
+Pour chaque indication de couleur donnée par un texte, l’information ne doit pas être donnée uniquement par la couleur. Cette règle est-elle implémentée de façon pertinente ?

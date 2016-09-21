@@ -1,0 +1,1 @@
+Test 8.9.1 : Dans chaque page Web les balises (à l’exception de div, span et table) ne doivent pas être utilisées uniquement à des fins de présentation. Cette règle est-elle respectée ?

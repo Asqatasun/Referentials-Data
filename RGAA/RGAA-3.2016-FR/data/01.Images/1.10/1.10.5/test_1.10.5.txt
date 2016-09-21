@@ -1,0 +1,1 @@
+Chaque image bitmap légendée (balise canvas associée à une légende adjacente) vérifie-t-elle, si nécessaire, ces conditions ? L’image bitmap (balise canvas) et sa légende sont contenues dans une balise figure ; La balise figure possède un attribut role="group" ; Le contenu entre <canvas> et </canvas> de l’image bitmap contient une référence à la légende adjacente.

@@ -1,0 +1,1 @@
+Pour chaque image bitmap (balise canvas) utilisée comme CAPTCHA ou comme image-test, ayant une alternative textuelle, l’alternative textuelle est-elle correctement restituée par les technologies d’assistance ?

@@ -1,0 +1,1 @@
+Test 4.3.2 : Pour chaque média temporel synchronisé pré-enregistré possédant des sous-titres synchronisés diffusés via une balise track, la balise track possède-t-elle un attribut kind="captions"

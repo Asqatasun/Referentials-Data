@@ -1,0 +1,1 @@
+Test 7.2.2 : Chaque élément non textuel mis à jour par un script (dans la page, ou un cadre en ligne) et ayant une alternative vérifie-t-il ces conditions ? L’alternative de l’élément non textuel est mise à jour ; L’alternative mise à jour est pertinente.
