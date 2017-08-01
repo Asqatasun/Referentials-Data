@@ -1,0 +1,1 @@
+Test 13.10.1 : Dans chaque page web, pour chaque expression inhabituelle ou limitée, idiomatique ou de jargon ayant une définition, cette définition vérifie-t-elle l'une de ces conditions ? Le contenu de la définition associée est pertinent. Le contenu de la balise dd de la liste de définition est pertinent. La définition donnée par le contexte adjacent est pertinente.

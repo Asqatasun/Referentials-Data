@@ -1,0 +1,1 @@
+Chaque image (balises img, area, object, embed, svg, canvas) utilisée comme CAPTCHA vérifie-t-elle une de ces conditions ? Il existe une autre forme de CAPTCHA non graphique, au moins. Il existe une autre solution d'accès à la fonctionnalité sécurisée par le CAPTCHA.

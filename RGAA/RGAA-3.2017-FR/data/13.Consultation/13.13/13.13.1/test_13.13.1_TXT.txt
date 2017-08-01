@@ -1,0 +1,3 @@
+Test 13.13.1 : Dans chaque page web, chaque mot dont le sens ne peut être compris sans en connaître la prononciation, vérifie-t-il une de ces conditions ?
+								L'indication de la prononciation phonétique est présente de manière adjacente.
+								  L'indication de la prononciation phonétique est accessible via un lien.

@@ -1,0 +1,1 @@
+Dans chaque page web, les groupes de liens importants (menu, barre de navigation…) et la zone de contenu sont-ils identifiés ?

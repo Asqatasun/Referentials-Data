@@ -1,0 +1,1 @@
+Critère 13.16 [AAA] Dans chaque page web, les changements brusques de luminosité ou les effets de flash ont-ils une fréquence inférieure ou égale à 3 par seconde ?

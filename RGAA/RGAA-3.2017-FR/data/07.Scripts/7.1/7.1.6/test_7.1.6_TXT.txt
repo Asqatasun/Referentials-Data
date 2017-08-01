@@ -1,0 +1,3 @@
+Test 7.1.6 : Chaque composant d'interface qui utilise un rôle ARIA application respecte-t-il une de ces conditions ?
+								Le composant d'interface est correctement restitué par les technologies d'assistance.
+								  Une alternative accessible permet d'accéder aux mêmes fonctionnalités.

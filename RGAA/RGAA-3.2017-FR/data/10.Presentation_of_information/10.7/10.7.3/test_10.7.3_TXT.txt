@@ -1,0 +1,3 @@
+Test 10.7.3 : Chaque lien dans un texte signalé par la couleur uniquement vérifie-t-il ces conditions ?
+								Une indication visuelle autre que la couleur permet de signaler la prise de focus au clavier.
+								  Une indication visuelle autre que la couleur permet de signaler le survol du lien à la souris.

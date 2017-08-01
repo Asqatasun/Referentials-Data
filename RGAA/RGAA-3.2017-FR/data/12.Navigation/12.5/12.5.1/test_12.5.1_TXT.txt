@@ -1,0 +1,1 @@
+Test 12.5.1 : Dans chaque ensemble de pages, la page « plan du site » est-elle accessible à partir d'une fonctionnalité identique ?

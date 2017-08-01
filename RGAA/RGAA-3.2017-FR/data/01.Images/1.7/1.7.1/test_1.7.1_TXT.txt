@@ -1,0 +1,4 @@
+Test 1.7.1 : Chaque image (balise img) porteuse d'information, ayant une description détaillée, vérifie-t-elle ces conditions ?
+								La description détaillée via l'adresse référencée dans l'attribut longdesc est pertinente.
+								  La description détaillée dans la page et signalée dans l'attribut alt est pertinente.
+								  La description détaillée via un lien adjacent est pertinente.

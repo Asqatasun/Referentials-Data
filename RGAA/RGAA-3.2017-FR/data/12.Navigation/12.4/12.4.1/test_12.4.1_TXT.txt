@@ -1,0 +1,1 @@
+Test 12.4.1 : La page « plan du site » est-elle représentative de l'architecture générale du site ?

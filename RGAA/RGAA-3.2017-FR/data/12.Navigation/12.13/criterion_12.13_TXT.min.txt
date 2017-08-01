@@ -1,0 +1,1 @@
+Critère 12.13 [A] Dans chaque page web, l'ordre de tabulation est-il cohérent ?

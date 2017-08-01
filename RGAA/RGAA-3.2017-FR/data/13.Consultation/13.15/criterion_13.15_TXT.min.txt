@@ -1,0 +1,1 @@
+Critère 13.15 [A] Dans chaque page web, les changements brusques de luminosité ou les effets de flash sont-ils correctement utilisés ?

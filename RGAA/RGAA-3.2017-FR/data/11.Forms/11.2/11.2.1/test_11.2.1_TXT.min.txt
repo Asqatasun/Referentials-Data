@@ -1,0 +1,1 @@
+Test 11.2.1 : Chaque étiquette (balise label) permet-elle de connaître la fonction exacte du champ de formulaire auquel elle est associée ?

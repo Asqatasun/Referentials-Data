@@ -1,0 +1,1 @@
+Dans chaque liste de choix (balise select), chaque regroupement d'items de liste (balise optgroup) possède-t-il un attribut label ?

@@ -1,0 +1,1 @@
+Test 10.12.2 : Pour chaque page web, chaque bloc de texte vérifie-t-il une de ces conditions ? La valeur de l'espacement entre deux paragraphes est égale à 1,5 fois la valeur de l'interligne, au moins. Un mécanisme permet d'augmenter la valeur de l'espacement entre deux paragraphes à 1,5 fois la valeur de l'interligne, au moins.

@@ -1,0 +1,1 @@
+Chaque barre de navigation répétée dans un ensemble de pages vérifie-t-elle ces conditions (hors cas particuliers) ? La barre de navigation est toujours à la même place dans la présentation. La barre de navigation se présente toujours dans le même ordre relatif dans le code source.

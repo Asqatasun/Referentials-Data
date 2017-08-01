@@ -1,0 +1,1 @@
+Critère 4.15 [A] Chaque média temporel est-il clairement identifiable (hors cas particuliers) ?

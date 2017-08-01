@@ -1,0 +1,5 @@
+Test 1.3.2 : Chaque zone (balise area) d'une image réactive porteuse d'information, ayant un attribut alt, vérifie-t-elle ces conditions (hors cas particuliers) ?
+								Le contenu de l'attribut alt est pertinent.
+								  S'il est présent, le contenu de l'attribut title est identique au contenu de l'attribut alt.
+								  S'il est présent, le contenu de la propriété aria-label est identique au contenu de l'attribut alt.
+								  S'il est présent, le contenu du passage de texte lié via la propriété aria-labelledby est identique au contenu de l'attribut alt.

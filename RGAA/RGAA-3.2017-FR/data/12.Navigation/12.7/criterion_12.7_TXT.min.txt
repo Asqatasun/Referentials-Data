@@ -1,0 +1,1 @@
+Critère 12.7 [AA] Dans chaque page d'une collection de pages, des liens facilitant la navigation sont-ils présents ?

@@ -1,0 +1,1 @@
+Test 11.3.1 : Chaque étiquette associée à un champ de formulaire ayant la même fonction et répétée plusieurs fois dans une même page est-elle cohérente ?

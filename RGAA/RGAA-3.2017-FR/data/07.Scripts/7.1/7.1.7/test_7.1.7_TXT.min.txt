@@ -1,0 +1,1 @@
+Test 7.1.7 : Chaque script qui génère ou contrôle un composant d'interface vérifie-t-il ces conditions ? Le composant possède un nom pertinent. Le composant possède un rôle pertinent.

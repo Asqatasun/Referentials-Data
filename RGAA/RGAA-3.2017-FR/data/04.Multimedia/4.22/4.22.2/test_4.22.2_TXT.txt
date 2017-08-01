@@ -1,0 +1,4 @@
+Test 4.22.2 : Chaque média temporel et non temporel qui possède une alternative compatible avec les technologies d'assistance, vérifie-t-il une de ces conditions ?
+								L'alternative est adjacente au média temporel ou non temporel.
+								  L'alternative est accessible via un lien adjacent (une url ou une ancre.
+								  Un mécanisme permet de remplacer le média temporel ou non temporel par son alternative.

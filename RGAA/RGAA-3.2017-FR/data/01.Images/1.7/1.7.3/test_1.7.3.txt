@@ -1,0 +1,1 @@
+Chaque image objet (balise object avec l'attribut type="image/…") porteuse d'information, ayant une description détaillée, vérifie-t-elle ces conditions ? La description détaillée adjacente à l'image objet est pertinente. La description détaillée via un lien adjacent est pertinente.

@@ -1,0 +1,1 @@
+Dans chaque page web, les informations regroupées sous forme de liste de définition utilisent-elles les balises dl et dt/dd ?

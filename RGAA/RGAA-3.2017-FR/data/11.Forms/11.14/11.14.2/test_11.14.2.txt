@@ -1,0 +1,1 @@
+Chaque indication qui utilise la propriété ARIA aria-label doit être accompagnée d'une indication visuelle équivalente explicite, cette règle est-elle respectée ?

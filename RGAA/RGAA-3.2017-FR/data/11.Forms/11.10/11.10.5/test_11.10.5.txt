@@ -1,0 +1,1 @@
+Chaque indication d'erreur de saisie réalisée grâce à la propriété ARIA aria-label ou aria-invalid doit être accompagnée d'une indication visuelle explicite dans l'étiquette : balise label, texte visible à proximité ou passage de texte lié au champ par la propriété ARIA aria-describedby ou aria-labelledby. Cette règle est-elle respectée ?

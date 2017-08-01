@@ -1,0 +1,1 @@
+Critère 10.11 [AAA] Pour chaque page web, les blocs de texte ont-ils une largeur inférieure ou égale à 80 caractères (hors cas particuliers) ?

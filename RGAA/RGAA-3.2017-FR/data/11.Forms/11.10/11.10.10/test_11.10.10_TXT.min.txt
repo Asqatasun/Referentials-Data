@@ -1,0 +1,1 @@
+Test 11.10.10 : Chaque champ de formulaire qui utilise un attribut title comme aide à la saisie, vérifie-t-il une de ces conditions ? L'attribut placeholder est absent. L'attribut placeholder est identique à l'attribut title.

@@ -1,0 +1,1 @@
+Dans chaque page web, chaque changement brusque de luminosité ou effet de flash provoqué par une mise en forme CSS a-t-il une fréquence inférieure ou égale à 3 par seconde ?

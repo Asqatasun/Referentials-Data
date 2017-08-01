@@ -1,0 +1,3 @@
+Test 1.7.4 : Chaque image embarquée (balise embed avec l'attribut type="image/…") porteuse d'information, ayant une description détaillée,  vérifie-t-elle ces conditions ?
+								La description détaillée adjacente à l'image embarquée est pertinente.
+								  La description détaillée via un lien adjacent est pertinente.

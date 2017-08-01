@@ -1,0 +1,1 @@
+Test 1.6.10 : Pour chaque image (balise img, area, object, embed, svg, canvas) porteuse d'information, qui implémente une description détaillée et qui utilise une propriété aria-describedby, la propriété aria-describedby référence-t-elle la description détaillée ?

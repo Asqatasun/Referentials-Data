@@ -1,0 +1,6 @@
+Test 11.10.1 : Pour chaque formulaire, les indications de champs obligatoires vérifient-elles une de ces conditions ?
+								L'indication de champ obligatoire est donnée par un passage de texte situé avant le champ de formulaire.
+								  L'indication de champ obligatoire est donnée via un attribut required.
+								  L'indication de champ obligatoire est donnée via la propriété ARIA aria-required.
+								  L'indication de champ obligatoire est donnée dans l'étiquette du champ de formulaire.
+								  L'indication de champ obligatoire est donnée par un passage de texte lié par la propriété ARIA aria-describedby.

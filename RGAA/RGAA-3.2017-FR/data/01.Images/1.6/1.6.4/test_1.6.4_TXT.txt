@@ -1,0 +1,4 @@
+Test 1.6.4 : Chaque bouton de type image (balise input avec l'attribut type="image") porteur d'information, qui nécessite une description détaillée, vérifie-t-il une de ces conditions ?
+								Il existe un attribut alt contenant la référence à une description détaillée adjacente à l'image.
+								  Il existe un lien adjacent (via une url ou une ancre) permettant d'accéder au contenu de la description détaillée.
+								  Il existe une propriété aria-describedby référençant un passage de texte faisant office de description détaillée.

@@ -1,0 +1,1 @@
+Dans chaque page web, le choix de la couleur de fond et de police du texte est-il contrôlable par l'utilisateur ?

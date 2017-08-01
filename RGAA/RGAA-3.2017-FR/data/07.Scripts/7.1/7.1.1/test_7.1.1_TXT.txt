@@ -1,0 +1,4 @@
+Test 7.1.1 : Chaque script qui génère ou contrôle un composant d'interface vérifie-t-il, si nécessaire, une de ces conditions ?
+								Le nom, le rôle, la valeur, le paramétrage et les changements d'états sont accessibles aux technologies d'assistance via une API d'accessibilité.
+								  Un composant d'interface accessible permettant d'accéder aux mêmes fonctionnalités est présent dans la page.
+								  Une alternative accessible permet d'accéder aux mêmes fonctionnalités.

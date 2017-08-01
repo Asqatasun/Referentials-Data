@@ -1,0 +1,1 @@
+Dans chaque page web, l'arborescence du document est-elle cohérente ?

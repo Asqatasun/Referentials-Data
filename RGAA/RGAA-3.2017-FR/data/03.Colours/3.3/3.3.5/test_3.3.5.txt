@@ -1,0 +1,1 @@
+Chaque mécanisme qui permet d'afficher le texte avec un rapport de contraste conforme a-t-il un rapport de contraste supérieur ou égal à 4,5:1 ?

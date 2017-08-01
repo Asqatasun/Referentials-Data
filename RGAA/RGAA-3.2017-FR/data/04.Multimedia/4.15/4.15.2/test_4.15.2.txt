@@ -1,0 +1,1 @@
+Pour chaque média temporel seulement son en direct, seulement vidéo en direct ou synchronisé en direct, le contenu textuel adjacent permet-il d'identifier clairement le média temporel (hors cas particuliers) ?

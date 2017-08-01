@@ -1,0 +1,4 @@
+Test 1.7.5 : Chaque image vectorielle (balise svg) porteuse d'information, ayant une description détaillée, vérifie-t-elle ces conditions ?
+								La description détaillée adjacente à l'image vectorielle et signalée dans la propriété aria-label ou la balise desc est pertinente.
+								  La description détaillée contenue dans la balise desc est pertinente.
+								  La description détaillée via un lien adjacent est pertinente.

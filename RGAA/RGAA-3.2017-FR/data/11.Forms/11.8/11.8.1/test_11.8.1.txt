@@ -1,0 +1,1 @@
+Dans chaque formulaire, pour chaque liste de choix (balise select), les items sont-ils regroupés avec une balise optgroup, si nécessaire ?

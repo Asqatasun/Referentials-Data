@@ -1,0 +1,1 @@
+Test 4.15.1 : Pour chaque média temporel seulement son, seulement vidéo ou synchronisé, le contenu textuel adjacent permet-il d'identifier clairement le média temporel (hors cas particuliers) ?

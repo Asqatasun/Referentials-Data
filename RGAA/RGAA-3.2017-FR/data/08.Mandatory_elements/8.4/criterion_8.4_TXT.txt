@@ -1,0 +1,1 @@
+Critère 8.4 [A] Pour chaque page web ayant une langue par défaut, le code de langue est-il pertinent ?

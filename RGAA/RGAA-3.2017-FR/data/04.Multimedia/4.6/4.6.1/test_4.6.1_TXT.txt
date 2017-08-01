@@ -1,0 +1,4 @@
+Test 4.6.1 : Chaque média temporel seulement audio en direct vérifie-t-il une de ces conditions ?
+								Les sous-titres synchronisés sont pertinents.
+								  Les sous-titres synchronisés de la version alternative sont pertinents.
+								  La transcription textuelle est pertinente.

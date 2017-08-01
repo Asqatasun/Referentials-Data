@@ -1,0 +1,1 @@
+Chaque en-tête (balise th) s'appliquant à la totalité de la ligne ou de la colonne possède-t-il un attribut id unique ou un attribut scope ?

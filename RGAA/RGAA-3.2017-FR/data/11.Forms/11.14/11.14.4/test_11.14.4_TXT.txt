@@ -1,0 +1,5 @@
+Test 11.14.4 : Chaque champ de type texte vérifie-t-il, si nécessaire, l'une de ces conditions ?
+								Un correcteur orthographique est disponible.
+								  Des suggestions de saisie sont disponibles avant le champ du formulaire.
+								  Des suggestions de saisie sont disponibles dans l'étiquette du champ de formulaire.
+								  Des suggestions de saisie sont disponibles dans un passage de texte lié par la propriété ARIA aria-describedby.

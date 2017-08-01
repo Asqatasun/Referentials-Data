@@ -1,0 +1,1 @@
+Dans chaque page web, l'augmentation de la taille des caractères à 200% vérifie-t-elle une de ces conditions ? En affichage plein écran, pour lire un bloc de texte, l'utilisation de la barre de défilement horizontal n'est pas nécessaire. Un mécanisme permet de rendre inutile l'utilisation de la barre de défilement horizontal pour lire un bloc de texte en affichage plein écran.

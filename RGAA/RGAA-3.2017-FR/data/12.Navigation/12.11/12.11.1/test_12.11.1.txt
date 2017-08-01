@@ -1,0 +1,1 @@
+Dans chaque page web, un lien permet-il d'éviter chaque groupe de liens importants identifié ou d'y accéder (hors cas particuliers) ?

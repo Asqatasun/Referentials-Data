@@ -1,0 +1,1 @@
+Test 6.4.2 : Pour chaque page web, chaque lien identique de type image a-t-il les mêmes fonction et destination ?

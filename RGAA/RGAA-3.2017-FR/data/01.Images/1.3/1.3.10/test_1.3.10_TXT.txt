@@ -1,0 +1,5 @@
+Test 1.3.10 : Chaque image bitmap (balise canvas) porteuse d'information vérifie-t-elle une de ces conditions (hors cas particuliers) ?
+								Le contenu de l'alternative (contenu entre <canvas> et </canvas>) est pertinent.
+								  L'image bitmap est immédiatement suivie d'un lien adjacent permettant d'afficher une page ou un passage de texte contenant une alternative pertinente.
+								  Un mécanisme permet à l'utilisateur de remplacer l'image bitmap par un texte alternatif pertinent.
+								  Un mécanisme permet à l'utilisateur de remplacer l'image bitmap par une image possédant une alternative pertinente.

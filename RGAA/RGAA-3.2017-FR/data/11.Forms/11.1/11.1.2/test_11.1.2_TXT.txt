@@ -1,0 +1,5 @@
+Test 11.1.2 : Chaque champ de formulaire, associé à une étiquette (balise label), vérifie-t-il ces conditions ?
+								Le champ de formulaire possède un attribut id.
+								  La valeur de l'attribut id est unique.
+								  La balise label possède un attribut for.
+								  La valeur de l'attribut for est égale à la valeur de l'attribut id du champ de formulaire associé.

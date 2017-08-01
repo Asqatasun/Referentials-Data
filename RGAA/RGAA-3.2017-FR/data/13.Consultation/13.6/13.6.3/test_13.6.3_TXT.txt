@@ -1,0 +1,1 @@
+Test 13.6.3 : Dans chaque page web, chaque fichier en téléchargement via un lien ou un formulaire a-t-il, si nécessaire, des informations relatives à sa langue (hors cas particuliers) ?

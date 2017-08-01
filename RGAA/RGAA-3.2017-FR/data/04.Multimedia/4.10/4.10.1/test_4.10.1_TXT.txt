@@ -1,0 +1,1 @@
+Test 4.10.1 : Pour chaque média temporel pré-enregistré seulement audio ayant une interprétation en langue des signes, celle-ci est-elle pertinente ?

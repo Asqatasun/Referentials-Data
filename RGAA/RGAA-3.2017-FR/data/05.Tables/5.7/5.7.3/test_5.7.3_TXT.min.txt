@@ -1,0 +1,1 @@
+Test 5.7.3 : Chaque en-tête (balise th) ne s'appliquant pas à la totalité de la ligne ou de la colonne vérifie-t-il ces conditions ? L'en-tête ne possède pas d'attribut scope. L'en-tête possède un attribut id unique.

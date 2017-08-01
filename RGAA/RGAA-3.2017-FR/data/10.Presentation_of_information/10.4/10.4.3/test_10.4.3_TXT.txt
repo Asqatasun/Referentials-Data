@@ -1,0 +1,1 @@
+Test 10.4.3 : Dans chaque page web, l'augmentation de la taille des caractères jusqu'à 200%, au moins, ne doit pas provoquer de perte d'information. Cette règle est-elle respectée ?

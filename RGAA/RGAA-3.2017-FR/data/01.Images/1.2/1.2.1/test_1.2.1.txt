@@ -1,0 +1,1 @@
+Chaque image (balise img) de décoration, sans légende, et ayant un attribut alt, vérifie-t-elle ces conditions ? Le contenu de l'attribut alt est vide (alt=""). L'image de décoration ne possède pas d'attribut title. La balise img est dépourvue de rôle, propriété ou état ARIA visant à labelliser l'image (aria-label, aria-describedby, aria-labelledby par exemple).

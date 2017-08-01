@@ -1,0 +1,1 @@
+Dans chaque page web, à partir de 120% de la taille de police par défaut (ou 1.2em), le texte et le texte en image en gras vérifient-ils une de ces conditions (hors cas particuliers) ? Le rapport de contraste entre le texte et son arrière-plan est de 3:1, au moins. Un mécanisme permet à l'utilisateur d'afficher le texte avec un rapport de contraste de 3:1, au moins.

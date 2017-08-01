@@ -1,0 +1,1 @@
+Pour chaque tableau de données (balise table) ayant un titre de tableau dans la balise caption, le titre est-il pertinent ?

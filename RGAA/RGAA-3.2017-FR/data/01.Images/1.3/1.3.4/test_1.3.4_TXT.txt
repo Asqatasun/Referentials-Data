@@ -1,0 +1,4 @@
+Test 1.3.4 : Chaque image objet (balise object avec l'attribut type="image/…") porteuse d'information vérifie-t-elle une de ces conditions (hors cas particuliers) ?
+								L'image objet est immédiatement suivie d'un lien adjacent permettant d'afficher une page ou un passage de texte contenant une alternative pertinente.
+								  Un mécanisme permet à l'utilisateur de remplacer l'image objet par un texte alternatif pertinent.
+								  Un mécanisme permet à l'utilisateur de remplacer l'image objet par une image possédant une alternative pertinente.

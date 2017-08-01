@@ -1,0 +1,3 @@
+Test 4.22.1 : Chaque média temporel et non temporel vérifie-t-il une de ces conditions (hors cas particuliers) ?
+								Le nom, le rôle, la valeur, le paramétrage et les changements d'états des composants d'interfaces sont accessibles aux technologies d'assistance via une API d'accessibilité.
+								  Une alternative compatible avec une API d'accessibilité permet d'accéder aux mêmes fonctionnalités.

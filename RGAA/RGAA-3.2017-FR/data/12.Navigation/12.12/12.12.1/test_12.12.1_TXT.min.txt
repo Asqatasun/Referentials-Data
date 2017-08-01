@@ -1,0 +1,1 @@
+Test 12.12.1 : Dans chaque page web, la page en cours de consultation est-elle indiquée dans le menu de navigation ?

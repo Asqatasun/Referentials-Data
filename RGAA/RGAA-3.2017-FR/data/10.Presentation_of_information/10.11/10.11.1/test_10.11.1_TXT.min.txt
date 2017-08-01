@@ -1,0 +1,1 @@
+Test 10.11.1 : Pour chaque page web, chaque bloc de texte vérifie-t-il une de ces conditions (hors cas particuliers) ? Chaque bloc de texte a une largeur inférieure ou égale à 80 caractères. L'utilisateur peut réduire la largeur de chaque bloc de texte à 80 caractères en redimensionnant la fenêtre de son navigateur.

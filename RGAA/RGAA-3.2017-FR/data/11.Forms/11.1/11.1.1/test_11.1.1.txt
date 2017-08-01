@@ -1,0 +1,1 @@
+Chaque champ de formulaire vérifie-t-il une de ces conditions ? Le champ de formulaire possède un attribut title. Une étiquette (balise label) est associée au champ de formulaire. Le champ de formulaire possède une propriété aria-label. Le champ de formulaire possède une propriété aria-labelledby référençant un passage de texte identifié.

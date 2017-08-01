@@ -1,0 +1,1 @@
+Critère 1.9 [AAA] Chaque image texte porteuse d'information, doit si possible être remplacée par du texte stylé. Cette règle est-elle respectée (hors cas particuliers) ?

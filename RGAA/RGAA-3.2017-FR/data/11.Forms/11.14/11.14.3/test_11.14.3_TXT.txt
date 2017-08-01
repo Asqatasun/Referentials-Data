@@ -1,0 +1,4 @@
+Test 11.14.3 : Chaque indication qui utilise un passage de texte lié par la propriété ARIA aria-describedby vérifie-t-elle ces conditions ?
+								Le passage de texte est identifié via un attribut id.
+								  La valeur de l'attribut id est unique.
+								  La valeur de la propriété ARIA aria-describedby est égale à la valeur de l'attribut id.

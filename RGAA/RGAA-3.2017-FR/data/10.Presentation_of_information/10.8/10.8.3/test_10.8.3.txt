@@ -1,0 +1,1 @@
+Pour chaque bloc de texte contenu dans une balise object, embed, svg ou canvas, la couleur de fond est-elle contrôlable par l'utilisateur ?

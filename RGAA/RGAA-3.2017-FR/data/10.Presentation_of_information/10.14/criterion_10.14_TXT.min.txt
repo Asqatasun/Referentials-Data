@@ -1,0 +1,1 @@
+Critère 10.14 [A] Dans chaque page web, l'information ne doit pas être donnée uniquement par la forme, taille ou position. Cette règle est-elle respectée ?

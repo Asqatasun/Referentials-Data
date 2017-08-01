@@ -1,0 +1,1 @@
+Critère 4.21 [A] La consultation de chaque média non temporel est-elle contrôlable par le clavier et la souris ?

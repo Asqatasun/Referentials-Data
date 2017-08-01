@@ -1,0 +1,1 @@
+Dans chaque page web, chaque changement de langue (attribut lang et/ou xml:lang) est-il pertinent ?

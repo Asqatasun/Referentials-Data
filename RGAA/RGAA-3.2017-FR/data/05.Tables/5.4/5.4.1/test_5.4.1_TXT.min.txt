@@ -1,0 +1,1 @@
+Test 5.4.1 : Chaque tableau de données (balise table) a-t-il une balise caption ?

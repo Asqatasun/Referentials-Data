@@ -1,0 +1,1 @@
+Test 11.1.3 : Chaque champ de formulaire associé à une étiquette via la propriété ARIA aria-labelledby, vérifie-t-il ces conditions ? L'étiquette possède un attribut id. La valeur de l'attribut id est unique. Les valeurs de la propriété ARIA aria-labelledby sont égales à la valeur des attributs id des passages de textes utilisés pour créer l'étiquette.

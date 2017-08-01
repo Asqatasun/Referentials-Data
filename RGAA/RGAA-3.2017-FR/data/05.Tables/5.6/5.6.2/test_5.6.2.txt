@@ -1,0 +1,1 @@
+Pour chaque tableau de données (balise table), chaque en-tête de lignes a-t-il une balise th ?

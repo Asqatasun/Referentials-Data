@@ -1,0 +1,1 @@
+Test 13.12.1 : Dans chaque page web, chaque contenu cryptique (art ASCII, émoticon, syntaxe cryptique) vérifie-t-il une de ces conditions ? Le contenu de l'attribut title est pertinent. La définition donnée par le contexte adjacent est pertinente.

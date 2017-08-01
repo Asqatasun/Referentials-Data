@@ -1,0 +1,1 @@
+Pour chaque page web, le code source est-il valide selon le type de document spécifié (hors cas particuliers) ?

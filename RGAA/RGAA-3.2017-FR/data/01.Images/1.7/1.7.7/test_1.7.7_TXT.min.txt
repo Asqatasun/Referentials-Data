@@ -1,0 +1,1 @@
+Test 1.7.7 : Chaque image bitmap (balise canvas) porteuse d'information, ayant une description détaillée, vérifie-t-elle ces conditions ? La description détaillée adjacente à l'image bitmap est pertinente. La description détaillée contenue entre <canvas> et </canvas> est pertinente. La description détaillée via un lien adjacent est pertinente.

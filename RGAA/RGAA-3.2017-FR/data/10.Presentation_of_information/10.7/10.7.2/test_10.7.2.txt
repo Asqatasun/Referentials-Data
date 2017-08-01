@@ -1,0 +1,1 @@
+Pour chaque élément recevant le focus, l'indication visuelle du navigateur ne doit pas être dégradée (propriété CSS outline-color). Cette règle est-elle respectée ?

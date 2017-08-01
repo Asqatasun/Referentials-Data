@@ -1,0 +1,3 @@
+Test 6.1.1 : Chaque lien texte vérifie-t-il une de ces conditions (hors cas particuliers) ?
+								L'intitulé de lien seul permet d'en comprendre la fonction et la destination.
+								  Le contexte du lien permet d'en comprendre la fonction et la destination.

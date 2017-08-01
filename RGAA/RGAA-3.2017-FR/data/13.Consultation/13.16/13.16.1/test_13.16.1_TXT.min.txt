@@ -1,0 +1,1 @@
+Test 13.16.1 : Dans chaque page web, chaque changement brusque de luminosité ou effet de flash provoqué par une image (balise img, balise svg, balise embed, balise canvas ou balise object) a-t-il une fréquence inférieure ou égale à 3 par seconde ?

@@ -1,0 +1,1 @@
+Chaque étiquette implémentée via la propriété ARIA aria-labelledby permet-elle de connaître la fonction exacte du champ de formulaire auquel elle est associée ?

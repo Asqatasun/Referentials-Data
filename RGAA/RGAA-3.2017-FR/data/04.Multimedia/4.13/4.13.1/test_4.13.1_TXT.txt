@@ -1,0 +1,3 @@
+Test 4.13.1 : Chaque média temporel synchronisé vérifie-t-il si nécessaire une de ces conditions (hors cas particuliers) ?
+								Il existe une transcription textuelle accessible via un lien adjacent (une url ou une ancre).
+								  Il existe une transcription textuelle adjacente clairement identifiable.

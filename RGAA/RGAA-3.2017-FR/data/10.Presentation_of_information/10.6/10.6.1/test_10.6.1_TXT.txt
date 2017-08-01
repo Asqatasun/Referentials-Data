@@ -1,0 +1,1 @@
+Test 10.6.1 : Dans chaque page web, chaque lien texte signalé uniquement par la couleur, et dont la nature n'est pas évidente, a-t-il un rapport de contraste supérieur ou égal à 3:1 par rapport au texte environnant ?

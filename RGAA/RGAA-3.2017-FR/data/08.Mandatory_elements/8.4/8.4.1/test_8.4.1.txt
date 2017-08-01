@@ -1,0 +1,1 @@
+Pour chaque page web ayant une langue par défaut, le code de langue vérifie-t-il ces conditions ? Le code de langue est valide. Le code de langue est pertinent.
